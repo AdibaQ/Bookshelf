@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="linearLayout" type="id" />
+    <item name="imageViewBook" type="id" />
+    <item name="textViewTitle" type="id" />
+    <item name="textViewAuthors" type="id" />
+    <item name="idIVbook" type="id" />
+</resources>
